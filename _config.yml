@@ -2,17 +2,17 @@
 # 标题
 title: Blog
 # 选项卡标题
-SEOTitle: 周大路的博客 | SuperZhouDalu‘s Blog
+SEOTitle: 周颖的博客 | zhouying‘s Blog
 # 首页背景图片
 header-img: img/post-bg-debug.png
 # 邮箱设置
-email: zhoujianlu666@gmail.com
+email: 1044495837@qq.com
 # 网站介绍
 description: "I guess it comes down to a simple choice:get busy living or get busy dying."
 # 关键词
 keyword: "Java, Kotlin, Android, Vue.js, Apple, iPhone"
 # 博客访问链接
-url: "https://aigq.me"
+url: "https://wifi.github.io"
 # '/blog' if your blog hosted on 'host/blog'
 baseurl: ""
 
